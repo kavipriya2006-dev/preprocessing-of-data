@@ -1,1 +1,5 @@
-# prj1
+- Load Data: Import the dataset using Pandas and inspect its structure.
+- Handle Missing Values: Fill missing data using mean, median, or mode strategies.
+- Feature Processing: Encode categorical variables and scale numerical features.
+- Outlier Detection: Identify and remove outliers using statistical methods.
+- Save Processed Data: Export the cleaned dataset for further analysis or modeling
